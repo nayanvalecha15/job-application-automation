@@ -1,0 +1,5 @@
+.env
+__pycache__/
+desktop.ini
+*.db
+scraper_log.txt
